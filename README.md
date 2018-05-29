@@ -1,9 +1,9 @@
-# VideoFlix
+# VideoFlix ⚛️
 
-Tiny React App.
+Tiny React App.📹
 
 ## License
 
-MIT
+MIT 📒
 
 [gh-page]: http://mugukamil.github.io/videoflix
