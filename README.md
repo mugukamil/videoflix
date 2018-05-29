@@ -1,4 +1,4 @@
-# A Complete Intro to React
+# VideoFlix
 
 Tiny React App.
 
